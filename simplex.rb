@@ -183,3 +183,13 @@ c = Matrix[[-1, -2, 0, 0]]
 
 simplex = Simplex.new a, b, c
 simplex.calc
+
+=begin
+@TODO
+
+iteracyjnny calc
+step-by-step
+naprawic
+uporzadkowac
+zrefaktoryzować
+=end
